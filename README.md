@@ -92,7 +92,6 @@ jupyter notebook notebooks/healthcare_analysis.ipynb
 ## 🚀 Future Work
 - Build an interactive Power BI dashboard for hospital administrators
 - Test additional features (Gender, Blood Type, Hospital) and non-linear models (Random Forest) to see if predictive power improves
-- Add a real-world comparison dataset (e.g. Kaggle's Medical Cost insurance.csv) to demonstrate a model with genuine predictive signal
 
 ## 👤 Author
 Yash Shinde — [LinkedIn] — (https://github.com/shindeyash8421)
