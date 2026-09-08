@@ -97,4 +97,4 @@ jupyter notebook notebooks/healthcare_analysis.ipynb
 - Add a real-world comparison dataset (e.g. Kaggle's Medical Cost insurance.csv) to demonstrate a model with genuine predictive signal
 
 ## 👤 Author
-[Yash Shinde] — [LinkedIn] — [Portfolio/GitHub link]
+Yash Shinde — [LinkedIn] — (https://github.com/shindeyash8421)
