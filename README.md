@@ -81,8 +81,6 @@ healthcare-data-analytics/
 │   └── healthcare_analysis.ipynb
 ├── images/
 ├── README.md
-├── requirements.txt
-└── .gitignore
 ```
 
 ## ▶️ How to Run
